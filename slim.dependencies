@@ -3,7 +3,7 @@
     "repository": "rebelos/android_kernel_sony_apq8064",
     "target_path": "kernel/sony/apq8064",
     "remote": "github",
-    "branch": "cm-11.0"
+    "branch": "cm-11.0-rebel"
   },
   {
     "repository": "CyanogenMod/android_device_sony_common",
