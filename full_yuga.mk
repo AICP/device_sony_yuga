@@ -39,7 +39,7 @@ $(call inherit-product, device/sony/common/resources.mk)
 $(call inherit-product, device/sony/yuga/yuga.mk)
 
 # Common Rebel Resources
-# $(call inherit-product, device/rebel/common/rebel.mk)
+# $(call inherit-product-if-exists, device/rebel/common/rebel.mk)
 
 # Set those variables here to overwrite the inherited values.
 PRODUCT_NAME := full_yuga
