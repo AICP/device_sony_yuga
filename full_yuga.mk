@@ -29,12 +29,6 @@ TARGET_SCREEN_WIDTH := 1080
 PRODUCT_PACKAGES := \
     Torch
 
-# Rebel Center
-ifeq ($(TARGET_IS_REBEL),true)
-PRODUCT_PACKAGES := \
-    RebelCenter
-endif         
-
 # Inherit from those products. Most specific first.
 $(call inherit-product, $(SRC_TARGET_DIR)/product/full_base_telephony.mk)
 
@@ -43,6 +37,9 @@ $(call inherit-product, device/sony/common/resources.mk)
 
 # Inherit from yuga device
 $(call inherit-product, device/sony/yuga/yuga.mk)
+
+# Common Rebel Resources
+# $(call inherit-product, device/rebel/common/rebel.mk)
 
 # Set those variables here to overwrite the inherited values.
 PRODUCT_NAME := full_yuga
