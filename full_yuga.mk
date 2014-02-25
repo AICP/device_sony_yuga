@@ -29,6 +29,12 @@ TARGET_SCREEN_WIDTH := 1080
 PRODUCT_PACKAGES := \
     Torch
 
+# Rebel Center
+ifeq ($(TARGET_IS_REBEL),true)
+     PRODUCT_PACKAGES := \
+         RebelCenter
+endif         
+
 # Inherit from those products. Most specific first.
 $(call inherit-product, $(SRC_TARGET_DIR)/product/full_base_telephony.mk)
 
