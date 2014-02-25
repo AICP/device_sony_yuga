@@ -31,8 +31,8 @@ PRODUCT_PACKAGES := \
 
 # Rebel Center
 ifeq ($(TARGET_IS_REBEL),true)
-     PRODUCT_PACKAGES := \
-         RebelCenter
+PRODUCT_PACKAGES := \
+    RebelCenter
 endif         
 
 # Inherit from those products. Most specific first.
