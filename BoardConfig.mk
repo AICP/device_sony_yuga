@@ -19,7 +19,7 @@ include device/sony/fusion3-common/BoardConfigCommon.mk
 -include vendor/sony/yuga/BoardConfigVendor.mk
 
 # RebelCenter
-TARGET_IS_REBEL := false
+-include device/rebel/BoardConfig.mk
 
 # Assert
 TARGET_OTA_ASSERT_DEVICE := C6602,C6603,C6606,yuga
