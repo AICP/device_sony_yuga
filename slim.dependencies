@@ -39,18 +39,18 @@
     "repository": "SlimRoms/hardware_qcom_display-caf",
     "target_path": "hardware/qcom/display-caf",
     "remote": "github",
-    "branch": "kk4.4"
+    "branch": "kk4.4-caf"
   },
   {
     "repository": "SlimRoms/hardware_qcom_media-caf",
     "target_path": "hardware/qcom/media-caf",
     "remote": "github",
-    "branch": "kk4.4"
+    "branch": "kk4.4-caf"
   },
   {
     "repository": "SlimRoms/hardware_qcom_audio-caf",
     "target_path": "hardware/qcom/audio-caf",
     "remote": "github",
-    "branch": "kk4.4"
+    "branch": "kk4.4-caf"
   },
 ]
