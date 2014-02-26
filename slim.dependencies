@@ -6,7 +6,7 @@
     "branch": "cm-11.0"
   },
   {
-    "repository": "SlimRoms/android_device_sony_common",
+    "repository": "SlimRoms/device_sony_common",
     "target_path": "device/sony/common",
     "remote": "github",
     "branch": "kk4.4"
