@@ -12,10 +12,10 @@
     "branch": "kk4.4"
   },
   {
-    "repository": "rebelos/android_device_sony_qcom-common",
+    "repository": "SlimRoms/device_sony_qcom-common",
     "target_path": "device/sony/qcom-common",
     "remote": "github",
-    "branch": "cm-11.0"
+    "branch": "kk4.4"
   },
   {
     "repository": "rebelos/android_device_sony_fusion3-common",
@@ -24,10 +24,10 @@
     "branch": "cm-11.0"
   },
   {
-    "repository": "TheMuppets/proprietary_vendor_sony",
+    "repository": "SlimRoms/proprietary_vendor_sony",
     "target_path": "vendor/sony",
     "remote": "github",
-    "branch": "cm-11.0"
+    "branch": "kk4.4"
   },
   {
     "repository": "CyanogenMod/android_hardware_sony_DASH",
