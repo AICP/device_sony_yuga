@@ -9,13 +9,13 @@
     "repository": "SlimRoms/device_sony_common",
     "target_path": "device/sony/common",
     "remote": "github",
-    "branch": ""kk4.4""
+    "branch": "kk4.4"
   },
   {
     "repository": "SlimRoms/device_sony_qcom-common",
     "target_path": "device/sony/qcom-common",
     "remote": "github",
-    "branch": ""kk4.4""
+    "branch": "kk4.4"
   },
   {
     "repository": "rebelos/android_device_sony_fusion3-common",
@@ -27,7 +27,7 @@
     "repository": "SlimRoms/proprietary_vendor_sony",
     "target_path": "vendor/sony",
     "remote": "github",
-    "branch": ""kk4.4""
+    "branch": "kk4.4"
   },
   {
     "repository": "CyanogenMod/android_hardware_sony_DASH",
@@ -39,18 +39,18 @@
     "repository": "SlimRoms/hardware_qcom_display-caf",
     "target_path": "hardware/qcom/display-caf",
     "remote": "github",
-    "branch": ""kk4.4""
+    "branch": "kk4.4"
   },
   {
     "repository": "SlimRoms/hardware_qcom_media-caf",
     "target_path": "hardware/qcom/media-caf",
     "remote": "github",
-    "branch": ""kk4.4""
+    "branch": "kk4.4"
   },
   {
     "repository": "SlimRoms/hardware_qcom_audio-caf",
     "target_path": "hardware/qcom/audio-caf",
     "remote": "github",
-    "branch": ""kk4.4""
+    "branch": "kk4.4"
   }
 ]
