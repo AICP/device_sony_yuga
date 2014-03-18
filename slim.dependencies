@@ -1,6 +1,6 @@
 [
   {
-    "repository": "rebelos/kernel_sony_apq8064",
+    "repository": "SlimRoms/kernel_sony_apq8064",
     "target_path": "kernel/sony/apq8064",
     "remote": "github",
     "branch": "kk4.4"
@@ -18,7 +18,7 @@
     "branch": "kk4.4"
   },
   {
-    "repository": "rebelos/android_device_sony_fusion3-common",
+    "repository": "SlimRoms/device_sony_fusion3-common",
     "target_path": "device/sony/fusion3-common",
     "remote": "github",
     "branch": "kk4.4"
