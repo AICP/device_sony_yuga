@@ -5,11 +5,10 @@
 # Boot animation
 TARGET_SCREEN_HEIGHT := 1920
 TARGET_SCREEN_WIDTH := 1080
+
 # Inherit device configuration
 $(call inherit-product, device/sony/yuga/full_yuga.mk)
 
-# Specify phone tech before including full_phone
-$(call inherit-product, vendor/slim/config/gsm.mk)
 
 # Inherit Slim common Phone stuff.
 $(call inherit-product, vendor/slim/config/common_full_phone.mk)
