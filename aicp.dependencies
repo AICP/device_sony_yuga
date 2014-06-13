@@ -10,9 +10,9 @@
     "branch":      "cm-11.0"
   },
   {
-    "repository": "Cyanogenmod/device_sony_fusion3-common",
+    "repository": "AICP/device_sony_fusion3-common",
     "target_path": "device/sony/fusion3-common",
-    "branch":      "cm-11.0"
+    "branch":      "kitkat"
   },
   {
     "repository": "Cyanogenmod/android_kernel_sony_apq8064",
