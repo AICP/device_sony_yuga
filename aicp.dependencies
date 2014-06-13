@@ -1,23 +1,23 @@
 [
   {
-    "repository": "AOKP/device_sony_common",
+    "repository": "Cyanogenmod/android_device_sony_common",
     "target_path": "device/sony/common",
-    "branch":      "kitkat"
+    "branch":      "cm-11.0"
   },
   {
-    "repository": "AOKP/device_sony_qcom-common",
+    "repository": "Cyanogenmod/android_device_sony_qcom-common",
     "target_path": "device/sony/qcom-common",
-    "branch":      "kitkat"
+    "branch":      "cm-11.0"
   },
   {
-    "repository": "AOKP/device_sony_fusion3-common",
+    "repository": "Cyanogenmod/device_sony_fusion3-common",
     "target_path": "device/sony/fusion3-common",
-    "branch":      "kitkat"
+    "branch":      "cm-11.0"
   },
   {
-    "repository": "AOKP/kernel_sony_apq8064",
+    "repository": "Cyanogenmod/android_kernel_sony_apq8064",
     "target_path": "kernel/sony/apq8064",
-    "branch":      "kitkat"
+    "branch":      "cm-11.0"
   },
   {
     "repository": "Cyanogenmod/android_hardware_qcom_display-caf",
@@ -35,8 +35,8 @@
     "branch": "cm-11.0"
   },
   {
-    "repository": "SlimRoms/proprietary_vendor_sony",
+    "repository": "AOKP/vendor_sony",
     "target_path": "vendor/sony",
-    "branch":      "kk4.4"
+    "branch":      "kitkat"
   }
 ]
