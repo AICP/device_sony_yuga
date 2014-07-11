@@ -1,11 +1,11 @@
 [
   {
-    "repository": "Cyanogenmod/android_device_sony_common",
+    "repository": "CyanogenMod/android_device_sony_common",
     "target_path": "device/sony/common",
     "branch":      "cm-11.0"
   },
   {
-    "repository": "Cyanogenmod/android_device_sony_qcom-common",
+    "repository": "CyanogenMod/android_device_sony_qcom-common",
     "target_path": "device/sony/qcom-common",
     "branch":      "cm-11.0"
   },
@@ -15,22 +15,22 @@
     "branch":      "kitkat"
   },
   {
-    "repository": "Cyanogenmod/android_kernel_sony_apq8064",
+    "repository": "CyanogenMod/android_kernel_sony_apq8064",
     "target_path": "kernel/sony/apq8064",
     "branch":      "cm-11.0"
   },
   {
-    "repository": "Cyanogenmod/android_hardware_qcom_display-caf",
+    "repository": "CyanogenMod/android_hardware_qcom_display-caf",
     "target_path": "hardware/qcom/display-caf",
     "branch": "cm-11.0"
   },
   {
-    "repository": "Cyanogenmod/android_hardware_qcom_media-caf",
+    "repository": "CyanogenMod/android_hardware_qcom_media-caf",
     "target_path": "hardware/qcom/media-caf",
     "branch": "cm-11.0"
   },
   {
-    "repository": "Cyanogenmod/android_hardware_qcom_audio-caf",
+    "repository": "CyanogenMod/android_hardware_qcom_audio-caf",
     "target_path": "hardware/qcom/audio-caf",
     "branch": "cm-11.0"
   },
